@@ -1,0 +1,23 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpd-file, coding: cp1252
+#date: Thu Feb 26 2026 19:57:46
+#--EXPERIMENT INFO
+#e mainfile: first_experiment.py
+#e sha1: 95f1e3
+#e modules: 
+#e Experiment: Text Experiment
+#e no between subject factors
+#e Block 0: A name for the first block
+#e     block factors: 
+#e     n trials: 2
+#e     trial factors: 
+#e Block 1: A name for the second block
+#e     block factors: 
+#e     n trials: 2
+#e     trial factors: 
+#--SUBJECT INFO
+#s id: 1
+subject_id,
+1,A name for the first block,0,1073741903,1633
+1,A name for the first block,1,1073741904,372
+1,A name for the second block,0,1073741903,404
+1,A name for the second block,1,1073741904,187

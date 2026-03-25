@@ -1,0 +1,41 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Thu Feb 26 2026 19:54:57
+#sha1: 95f1e3
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='PCHuaweiMatteo', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+19038,design,log,
+#design: #exp: Text Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+#design: 0,0,0,0
+#design: 0,0,1,1
+#design: 1,1,0,0
+#design: 1,1,1,1
+19038,design,logged,
+19038,Experiment,started
+19056,Stimulus,presented,0
+84354,Experiment,paused
+84378,Stimulus,presented,5
+88243,Keyboard,received,n,wait_char
+88243,Experiment,resumed
+88243,Keyboard,received,None,wait
+88289,Stimulus,presented,1
+101011,Experiment,paused
+101060,Stimulus,presented,5
+115029,Keyboard,received,n,wait_char
+115029,Experiment,resumed
+115029,Keyboard,received,None,wait
+115094,Stimulus,presented,2
+124251,Experiment,paused
+124284,Stimulus,presented,5
+126711,Keyboard,received,n,wait_char
+126711,Experiment,resumed
+126711,Keyboard,received,None,wait
+126735,Stimulus,presented,3
+127841,Experiment,paused
+127904,Stimulus,presented,5
+129043,Keyboard,received,y,wait_char
+129043,Experiment,ended
+129106,Data,saved
+129136,Stimulus,presented,5

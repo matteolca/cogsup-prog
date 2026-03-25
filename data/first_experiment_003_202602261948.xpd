@@ -1,0 +1,19 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpd-file, coding: cp1252
+#date: Thu Feb 26 2026 19:48:54
+#--EXPERIMENT INFO
+#e mainfile: first_experiment.py
+#e sha1: 92096c
+#e modules: 
+#e Experiment: First Experiment
+#e no between subject factors
+#e Block 0: A name for the first block
+#e     block factors: 
+#e     n trials: 2
+#e     trial factors: 
+#e Block 1: A name for the second block
+#e     block factors: 
+#e     n trials: 2
+#e     trial factors: 
+#--SUBJECT INFO
+#s id: 3
+subject_id,
